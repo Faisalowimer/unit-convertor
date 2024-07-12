@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s0abjv19dk",
+  "description": "https://v2.scrimba.com/learn-javascript-c0v/~05h",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
